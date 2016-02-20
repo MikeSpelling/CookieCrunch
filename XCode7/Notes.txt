@@ -1,0 +1,6 @@
+Part1 - Simple project just shows background
+ - supportedInterfaceOrientations needs to be modified for XCode7
+
+Part 2 - loads up levels of grids of cookies
+ - Extensions: needs to be modified for XCode7
+ - Level: enumerate methods need to be modified
